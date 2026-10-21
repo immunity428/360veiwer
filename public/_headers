@@ -1,0 +1,8 @@
+# Cloudflare Pages のキャッシュ設定
+# ビルドで名前にハッシュが付くファイルは長期キャッシュ
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# 画像は差し替え時に反映されるよう1日
+/images/*
+  Cache-Control: public, max-age=86400
