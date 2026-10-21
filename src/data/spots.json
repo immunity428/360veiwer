@@ -12,12 +12,35 @@
       "x": 19.9,
       "y": 39.6,
       "description": "屋台や飲食ブースが並ぶ広場の観覧エリアです。",
-      "detailMap": "images/areas/foodcourt.jpg",
-      "detailMapCredit": "航空写真：国土地理院（地理院地図）",
+      "detailMap": "images/areas/foodcourt.png",
       "seats": [
-        { "id": "foodcourt-1", "label": "フードコート①", "x": 37.7, "y": 42.3, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "foodcourt-2", "label": "フードコート②", "x": 34.1, "y": 50.4, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "foodcourt-3", "label": "フードコート③", "x": 30.1, "y": 58.9, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } }
+        {
+          "id": "foodcourt-1",
+          "label": "フードコート①",
+          "x": 64.6,
+          "y": 38.9,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "foodcourt-2",
+          "label": "フードコート②",
+          "x": 55.3,
+          "y": 45.0,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "foodcourt-3",
+          "label": "フードコート③",
+          "x": 45.2,
+          "y": 53.3,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        }
       ]
     },
     {
@@ -26,15 +49,62 @@
       "x": 41.9,
       "y": 55.9,
       "description": "湖畔の石彫公園。個人協賛席やイス席があります。",
-      "detailMap": "images/areas/stone.jpg",
-      "detailMapCredit": "航空写真：国土地理院（地理院地図）",
+      "detailMap": "images/areas/stone.png",
       "seats": [
-        { "id": "stone-suwako", "label": "すわこ", "x": 59.5, "y": 19.2, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "stone-kojin", "label": "個人協賛", "x": 46.1, "y": 32.3, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "stone-isu", "label": "イス席", "x": 45.4, "y": 40.5, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "stone-kurumaisu", "label": "車イス", "x": 60.4, "y": 44.4, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "stone-karin", "label": "かりん", "x": 63.8, "y": 39.2, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "stone-ayame", "label": "あやめ", "x": 71.0, "y": 34.3, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } }
+        {
+          "id": "stone-suwako",
+          "label": "すわこ",
+          "x": 62.7,
+          "y": 22.9,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "stone-kojin",
+          "label": "個人協賛",
+          "x": 42.4,
+          "y": 43.7,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "stone-isu",
+          "label": "イス席",
+          "x": 41.9,
+          "y": 49.5,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "stone-kurumaisu",
+          "label": "車イス",
+          "x": 57.8,
+          "y": 51.8,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "stone-karin",
+          "label": "かりん",
+          "x": 60.0,
+          "y": 45.1,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "stone-ayame",
+          "label": "あやめ",
+          "x": 74.5,
+          "y": 34.5,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        }
       ]
     },
     {
@@ -43,17 +113,80 @@
       "x": 53.1,
       "y": 78.7,
       "description": "打ち上げ場所の正面。プレミアムマス・ハーフマス・ブロック席が並びます。",
-      "detailMap": "images/areas/center.jpg",
-      "detailMapCredit": "航空写真：国土地理院（地理院地図）",
+      "detailMap": "images/areas/center.png",
       "seats": [
-        { "id": "center-block-1", "label": "ブロック①", "x": 54.0, "y": 21.9, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "center-half-1", "label": "ハーフマス①", "x": 52.4, "y": 28.4, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "center-block-2", "label": "ブロック②", "x": 52.9, "y": 34.4, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "center-premium", "label": "プレミアムマス", "x": 50.5, "y": 40.0, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "center-block-3", "label": "ブロック③", "x": 51.6, "y": 45.7, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "center-half-2", "label": "ハーフマス②", "x": 50.1, "y": 49.5, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "center-masu", "label": "マス", "x": 45.9, "y": 63.6, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "center-cameraman", "label": "カメラマン席", "x": 45.5, "y": 80.3, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } }
+        {
+          "id": "center-block-1",
+          "label": "ブロック①",
+          "x": 56.9,
+          "y": 25.6,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "center-half-1",
+          "label": "ハーフマス①",
+          "x": 52.5,
+          "y": 34.3,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "center-block-2",
+          "label": "ブロック②",
+          "x": 54.9,
+          "y": 42.9,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "center-premium",
+          "label": "プレミアムマス",
+          "x": 50.0,
+          "y": 47.0,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "center-block-3",
+          "label": "ブロック③",
+          "x": 53.1,
+          "y": 54.4,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "center-half-2",
+          "label": "ハーフマス②",
+          "x": 47.6,
+          "y": 56.1,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "center-masu",
+          "label": "マス",
+          "x": 43.6,
+          "y": 67.2,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "center-cameraman",
+          "label": "カメラマン席",
+          "x": 40.7,
+          "y": 88.1,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        }
       ]
     },
     {
@@ -62,14 +195,53 @@
       "x": 77.0,
       "y": 49.5,
       "description": "湖岸の遊歩道沿いのイス席エリアです。",
-      "detailMap": "images/areas/lakeside.jpg",
-      "detailMapCredit": "航空写真：国土地理院（地理院地図）",
+      "detailMap": "images/areas/lakeside.png",
       "seats": [
-        { "id": "lakeside-pair", "label": "ペアイス", "x": 41.1, "y": 29.0, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "lakeside-isu-1", "label": "イス①", "x": 44.3, "y": 51.5, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "lakeside-isu-2", "label": "イス②", "x": 43.5, "y": 67.9, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "lakeside-mikire", "label": "見切れイス", "x": 48.2, "y": 80.9, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "lakeside-kanzen", "label": "完全見切れイス", "x": 47.1, "y": 85.0, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } }
+        {
+          "id": "lakeside-pair",
+          "label": "ペアイス",
+          "x": 44.3,
+          "y": 28.0,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "lakeside-isu-1",
+          "label": "イス①",
+          "x": 46.1,
+          "y": 50.0,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "lakeside-isu-2",
+          "label": "イス②",
+          "x": 46.7,
+          "y": 67.9,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "lakeside-mikire",
+          "label": "見切れイス",
+          "x": 49.3,
+          "y": 81.9,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "lakeside-kanzen",
+          "label": "完全見切れイス",
+          "x": 48.2,
+          "y": 88.4,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        }
       ]
     },
     {
@@ -78,12 +250,35 @@
       "x": 89.3,
       "y": 33.4,
       "description": "間欠泉センター北側の湖岸エリアです。",
-      "detailMap": "images/areas/geyser.jpg",
-      "detailMapCredit": "航空写真：国土地理院（地理院地図）",
+      "detailMap": "images/areas/geyser.png",
       "seats": [
-        { "id": "geyser-isu-1", "label": "イス①", "x": 42.0, "y": 10.1, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "geyser-masu", "label": "マス", "x": 40.6, "y": 18.8, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } },
-        { "id": "geyser-isu-2", "label": "イス②", "x": 44.0, "y": 27.6, "panorama": null, "ticketUrl": null, "view": { "pitch": 0, "yaw": 0, "hfov": 100 } }
+        {
+          "id": "geyser-isu-1",
+          "label": "イス①",
+          "x": 41.5,
+          "y": 15.5,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "geyser-masu",
+          "label": "マス",
+          "x": 40.5,
+          "y": 27.2,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        },
+        {
+          "id": "geyser-isu-2",
+          "label": "イス②",
+          "x": 44.1,
+          "y": 38.7,
+          "panorama": null,
+          "ticketUrl": null,
+          "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
+        }
       ]
     }
   ]
