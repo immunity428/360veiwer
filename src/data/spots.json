@@ -19,7 +19,7 @@
           "label": "フードコート①",
           "x": 64.6,
           "y": 38.9,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260814_172945_00_017.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -28,7 +28,7 @@
           "label": "フードコート②",
           "x": 55.3,
           "y": 45.0,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260814_173232_00_018.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -37,7 +37,7 @@
           "label": "フードコート③",
           "x": 45.2,
           "y": 53.3,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260814_173319_00_019.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         }
@@ -56,7 +56,7 @@
           "label": "すわこ",
           "x": 62.7,
           "y": 22.9,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_145103_00_009.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -65,7 +65,7 @@
           "label": "個人協賛",
           "x": 42.4,
           "y": 43.7,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_145921_00_015.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -74,7 +74,7 @@
           "label": "イス席",
           "x": 41.9,
           "y": 49.5,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_150028_00_016.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -83,7 +83,7 @@
           "label": "車イス",
           "x": 57.8,
           "y": 51.8,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_145708_00_013.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -92,7 +92,7 @@
           "label": "かりん",
           "x": 60.0,
           "y": 45.1,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_145559_00_011.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -101,7 +101,7 @@
           "label": "あやめ",
           "x": 74.5,
           "y": 34.5,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_145417_00_010.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         }
@@ -120,7 +120,7 @@
           "label": "ブロック①",
           "x": 56.9,
           "y": 25.6,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_143459_00_001.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -129,7 +129,7 @@
           "label": "ハーフマス①",
           "x": 52.5,
           "y": 34.3,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_143631_00_002.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -138,7 +138,7 @@
           "label": "ブロック②",
           "x": 54.9,
           "y": 42.9,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_143742_00_003.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -147,7 +147,7 @@
           "label": "プレミアムマス",
           "x": 50.0,
           "y": 47.0,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_143915_00_004.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -156,7 +156,7 @@
           "label": "ブロック③",
           "x": 53.1,
           "y": 54.4,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_144050_00_005.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -165,7 +165,7 @@
           "label": "ハーフマス②",
           "x": 47.6,
           "y": 56.1,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_144135_00_006.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -174,7 +174,7 @@
           "label": "マス",
           "x": 43.6,
           "y": 67.2,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_144306_00_007.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -183,7 +183,7 @@
           "label": "カメラマン席",
           "x": 40.7,
           "y": 88.1,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260813_144935_00_008.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         }
@@ -202,7 +202,7 @@
           "label": "ペアイス",
           "x": 44.3,
           "y": 28.0,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260815_095329_00_029.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -211,7 +211,7 @@
           "label": "イス①",
           "x": 46.1,
           "y": 50.0,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260815_095357_00_030.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -220,7 +220,7 @@
           "label": "イス②",
           "x": 46.7,
           "y": 67.9,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260815_095508_00_031.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -229,7 +229,7 @@
           "label": "見切れイス",
           "x": 49.3,
           "y": 81.9,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260815_103554_00_040.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -238,7 +238,7 @@
           "label": "完全見切れイス",
           "x": 48.2,
           "y": 88.4,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260815_103452_00_038.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         }
@@ -257,7 +257,7 @@
           "label": "イス①",
           "x": 41.5,
           "y": 15.5,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260815_101336_00_033.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -266,7 +266,7 @@
           "label": "マス",
           "x": 40.5,
           "y": 27.2,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260815_101128_00_032.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         },
@@ -275,7 +275,7 @@
           "label": "イス②",
           "x": 44.1,
           "y": 38.7,
-          "panorama": null,
+          "panorama": "images/panoramas/IMG_20260815_101635_00_036.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
         }
