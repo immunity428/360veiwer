@@ -3,22 +3,22 @@
   "map": {
     "image": "images/preview.webp",
     "alt": "諏訪湖祭湖上花火大会 会場概略図",
-    "credit": "会場概略図：suwako-hanabi.com"
+    "credit": "会場概略図（suwako-hanabi.com）をもとに作成"
   },
   "areas": [
     {
       "id": "foodcourt",
       "label": "フードコートエリア",
-      "x": 19.9,
-      "y": 39.6,
+      "x": 17.5,
+      "y": 43.0,
       "description": "屋台や飲食ブースが並ぶ広場の観覧エリアです。",
       "detailMap": "images/areas/foodcourt.png",
       "seats": [
         {
           "id": "foodcourt-1",
           "label": "フードコート①",
-          "x": 64.6,
-          "y": 38.9,
+          "x": 65.5,
+          "y": 68.0,
           "panorama": "images/panoramas/IMG_20260814_172945_00_017.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -27,7 +27,7 @@
           "id": "foodcourt-2",
           "label": "フードコート②",
           "x": 55.3,
-          "y": 45.0,
+          "y": 75.0,
           "panorama": "images/panoramas/IMG_20260814_173232_00_018.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -36,7 +36,7 @@
           "id": "foodcourt-3",
           "label": "フードコート③",
           "x": 45.2,
-          "y": 53.3,
+          "y": 83.3,
           "panorama": "images/panoramas/IMG_20260814_173319_00_019.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -46,8 +46,8 @@
     {
       "id": "stone",
       "label": "石彫エリア",
-      "x": 41.9,
-      "y": 55.9,
+      "x": 42.0,
+      "y": 62.0,
       "description": "湖畔の石彫公園。個人協賛席やイス席があります。",
       "detailMap": "images/areas/stone.png",
       "seats": [
@@ -55,7 +55,7 @@
           "id": "stone-suwako",
           "label": "すわこ",
           "x": 62.7,
-          "y": 22.9,
+          "y": 52.9,
           "panorama": "images/panoramas/IMG_20260813_145103_00_009.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -64,7 +64,7 @@
           "id": "stone-kojin",
           "label": "個人協賛",
           "x": 42.4,
-          "y": 43.7,
+          "y": 72.0,
           "panorama": "images/panoramas/IMG_20260813_145921_00_015.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -73,7 +73,7 @@
           "id": "stone-isu",
           "label": "イス席",
           "x": 41.9,
-          "y": 49.5,
+          "y": 80.5,
           "panorama": "images/panoramas/IMG_20260813_150028_00_016.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -81,8 +81,8 @@
         {
           "id": "stone-kurumaisu",
           "label": "車イス",
-          "x": 57.8,
-          "y": 51.8,
+          "x": 57.0,
+          "y": 83.0,
           "panorama": "images/panoramas/IMG_20260813_145708_00_013.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -90,8 +90,8 @@
         {
           "id": "stone-karin",
           "label": "かりん",
-          "x": 60.0,
-          "y": 45.1,
+          "x": 60.5,
+          "y": 74.5,
           "panorama": "images/panoramas/IMG_20260813_145559_00_011.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -100,7 +100,7 @@
           "id": "stone-ayame",
           "label": "あやめ",
           "x": 74.5,
-          "y": 34.5,
+          "y": 64.5,
           "panorama": "images/panoramas/IMG_20260813_145417_00_010.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -110,8 +110,8 @@
     {
       "id": "center",
       "label": "中央エリア",
-      "x": 53.1,
-      "y": 78.7,
+      "x": 60.0,
+      "y": 67.0,
       "description": "打ち上げ場所の正面。プレミアムマス・ハーフマス・ブロック席が並びます。",
       "detailMap": "images/areas/center.png",
       "seats": [
@@ -136,8 +136,8 @@
         {
           "id": "center-block-2",
           "label": "ブロック②",
-          "x": 54.9,
-          "y": 42.9,
+          "x": 58.0,
+          "y": 41.0,
           "panorama": "images/panoramas/IMG_20260813_143742_00_003.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -145,7 +145,7 @@
         {
           "id": "center-premium",
           "label": "プレミアムマス",
-          "x": 50.0,
+          "x": 52.0,
           "y": 47.0,
           "panorama": "images/panoramas/IMG_20260813_143915_00_004.jpg",
           "ticketUrl": null,
@@ -154,8 +154,8 @@
         {
           "id": "center-block-3",
           "label": "ブロック③",
-          "x": 53.1,
-          "y": 54.4,
+          "x": 58.0,
+          "y": 53.5,
           "panorama": "images/panoramas/IMG_20260813_144050_00_005.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -163,8 +163,8 @@
         {
           "id": "center-half-2",
           "label": "ハーフマス②",
-          "x": 47.6,
-          "y": 56.1,
+          "x": 52.5,
+          "y": 61.0,
           "panorama": "images/panoramas/IMG_20260813_144135_00_006.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -172,8 +172,8 @@
         {
           "id": "center-masu",
           "label": "マス",
-          "x": 43.6,
-          "y": 67.2,
+          "x": 52.6,
+          "y": 68.5,
           "panorama": "images/panoramas/IMG_20260813_144306_00_007.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -181,7 +181,7 @@
         {
           "id": "center-cameraman",
           "label": "カメラマン席",
-          "x": 40.7,
+          "x": 52.7,
           "y": 88.1,
           "panorama": "images/panoramas/IMG_20260813_144935_00_008.jpg",
           "ticketUrl": null,
@@ -192,8 +192,8 @@
     {
       "id": "lakeside",
       "label": "湖畔エリア",
-      "x": 77.0,
-      "y": 49.5,
+      "x": 77.5,
+      "y": 57.0,
       "description": "湖岸の遊歩道沿いのイス席エリアです。",
       "detailMap": "images/areas/lakeside.png",
       "seats": [
@@ -228,7 +228,7 @@
           "id": "lakeside-mikire",
           "label": "見切れイス",
           "x": 49.3,
-          "y": 81.9,
+          "y": 80.0,
           "panorama": "images/panoramas/IMG_20260815_103554_00_040.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -237,7 +237,7 @@
           "id": "lakeside-kanzen",
           "label": "完全見切れイス",
           "x": 48.2,
-          "y": 88.4,
+          "y": 89.5,
           "panorama": "images/panoramas/IMG_20260815_103452_00_038.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -247,8 +247,8 @@
     {
       "id": "geyser",
       "label": "間欠泉北エリア",
-      "x": 89.3,
-      "y": 33.4,
+      "x": 92.0,
+      "y": 41.0,
       "description": "間欠泉センター北側の湖岸エリアです。",
       "detailMap": "images/areas/geyser.png",
       "seats": [
