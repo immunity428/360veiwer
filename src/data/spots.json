@@ -17,7 +17,7 @@
           "id": "foodcourt-1",
           "label": "フードコート①",
           "x": 65.5,
-          "y": 68.0,
+          "y": 38.0,
           "panorama": "images/panoramas/IMG_20260814_172945_00_017.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -26,7 +26,7 @@
           "id": "foodcourt-2",
           "label": "フードコート②",
           "x": 55.3,
-          "y": 75.0,
+          "y": 45.0,
           "panorama": "images/panoramas/IMG_20260814_173232_00_018.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -35,7 +35,7 @@
           "id": "foodcourt-3",
           "label": "フードコート③",
           "x": 45.2,
-          "y": 83.3,
+          "y": 53.3,
           "panorama": "images/panoramas/IMG_20260814_173319_00_019.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -54,7 +54,7 @@
           "id": "stone-suwako",
           "label": "すわこ",
           "x": 62.7,
-          "y": 52.9,
+          "y": 22.9,
           "panorama": "images/panoramas/IMG_20260813_145103_00_009.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -63,7 +63,7 @@
           "id": "stone-kojin",
           "label": "個人協賛",
           "x": 42.4,
-          "y": 72.0,
+          "y": 42.0,
           "panorama": "images/panoramas/IMG_20260813_145921_00_015.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -72,7 +72,7 @@
           "id": "stone-isu",
           "label": "イス席",
           "x": 41.9,
-          "y": 80.5,
+          "y": 50.5,
           "panorama": "images/panoramas/IMG_20260813_150028_00_016.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -81,7 +81,7 @@
           "id": "stone-kurumaisu",
           "label": "車イス",
           "x": 57.0,
-          "y": 83.0,
+          "y": 53.0,
           "panorama": "images/panoramas/IMG_20260813_145708_00_013.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -90,7 +90,7 @@
           "id": "stone-karin",
           "label": "かりん",
           "x": 60.5,
-          "y": 74.5,
+          "y": 44.5,
           "panorama": "images/panoramas/IMG_20260813_145559_00_011.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -99,7 +99,7 @@
           "id": "stone-ayame",
           "label": "あやめ",
           "x": 74.5,
-          "y": 64.5,
+          "y": 34.5,
           "panorama": "images/panoramas/IMG_20260813_145417_00_010.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -144,7 +144,7 @@
         {
           "id": "center-premium",
           "label": "プレミアムマス",
-          "x": 52.0,
+          "x": 47.0,
           "y": 47.0,
           "panorama": "images/panoramas/IMG_20260813_143915_00_004.jpg",
           "ticketUrl": null,
@@ -162,8 +162,8 @@
         {
           "id": "center-half-2",
           "label": "ハーフマス②",
-          "x": 52.5,
-          "y": 61.0,
+          "x": 45.5,
+          "y": 60.0,
           "panorama": "images/panoramas/IMG_20260813_144135_00_006.jpg",
           "ticketUrl": null,
           "view": { "pitch": 0, "yaw": 0, "hfov": 100 }
@@ -171,7 +171,7 @@
         {
           "id": "center-masu",
           "label": "マス",
-          "x": 52.6,
+          "x": 43.6,
           "y": 68.5,
           "panorama": "images/panoramas/IMG_20260813_144306_00_007.jpg",
           "ticketUrl": null,
@@ -180,7 +180,7 @@
         {
           "id": "center-cameraman",
           "label": "カメラマン席",
-          "x": 52.7,
+          "x": 40.7,
           "y": 88.1,
           "panorama": "images/panoramas/IMG_20260813_144935_00_008.jpg",
           "ticketUrl": null,
@@ -246,7 +246,7 @@
     {
       "id": "geyser",
       "label": "間欠泉北エリア",
-      "x": 92.0,
+      "x": 87.0,
       "y": 41.0,
       "description": "間欠泉センター北側の湖岸エリアです。",
       "detailMap": "images/areas/geyser.png",
