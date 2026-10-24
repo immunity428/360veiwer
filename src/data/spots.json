@@ -1,7 +1,7 @@
 {
   "$schema": "./spots.schema.json",
   "map": {
-    "image": "images/preview.webp",
+    "image": "images/map.png",
     "alt": "諏訪湖祭湖上花火大会 会場概略図"
   },
   "areas": [
