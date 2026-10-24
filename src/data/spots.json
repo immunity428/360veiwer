@@ -2,8 +2,7 @@
   "$schema": "./spots.schema.json",
   "map": {
     "image": "images/preview.webp",
-    "alt": "諏訪湖祭湖上花火大会 会場概略図",
-    "credit": "会場概略図（suwako-hanabi.com）をもとに作成"
+    "alt": "諏訪湖祭湖上花火大会 会場概略図"
   },
   "areas": [
     {
